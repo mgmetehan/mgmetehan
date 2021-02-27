@@ -2,7 +2,7 @@
 I'm Metehan, Back-end developer from Turkey, Istanbul currently living in.I really enjoy learning languages like Java and Python .I am keen on Cybersecurity
 
 Skills: Java/C/C++/Css/Html
-
+:java:
 - 🌱 I’m currently learning Python and Machine learning  
 
 
