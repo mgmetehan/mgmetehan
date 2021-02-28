@@ -11,7 +11,7 @@ Skills: Java/C/C++/Css/Html
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgmetehan&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+My Social Media Links: 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com//mgmetehan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//metehan-gültekin-b224a3147//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mgmetehan/)![qr (Özel) (Özel)](https://user-images.githubusercontent.com/41691766/109403932-56893f80-7972-11eb-8343-dce22035eba5.png)
 
 
