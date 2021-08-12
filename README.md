@@ -7,7 +7,10 @@ Skills: Java/C/C++/Css/Html
 - 🌱 I’m currently learning Python and Machine learning  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgmetehan&hide=str&show_icons=true&theme=jolly)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgmetehan&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mgmetehan)](https://github.com/anuraghazra/github-readme-stats)
 
 
 My Social Media Links: 
