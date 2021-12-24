@@ -4,7 +4,7 @@ I'm Metehan, a Back-end developer from Turkey, Istanbul currently living in.I re
 Skills: Java/C/C++/Css/Html
 
 
-- 🌱 I’m currently learning Front-end
+- 🌱 I’m currently learning Java SpringBoot
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgmetehan&hide=str&show_icons=true&theme=jolly)
 
