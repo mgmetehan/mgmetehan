@@ -1,7 +1,7 @@
 #### Hey! 	:vulcan_salute: Nice to see you.
-I'm Metehan, a Back-end developer from Turkey, Istanbul currently living in.I really enjoy learning languages like Java and Python.I am keen on Cybersecurity
+I'm Metehan, a Back-end developer from Turkey, Istanbul currently living in.I really enjoy learning languages like Java and Python.I am keen on Java
 
-Skills: Java/C/C++/Css/Html
+Skills: Java(Spring Boot /JPA-Hibernate /JDBC /Log4j /Maven)/C/C++/Css/Html
 
 
 - 🌱 I’m currently learning Java SpringBoot
