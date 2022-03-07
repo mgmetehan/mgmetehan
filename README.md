@@ -9,7 +9,7 @@ Skills: Java(Spring Boot /JPA-Hibernate /JDBC /Log4j /Maven)/C/C++/Css/Html
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgmetehan&hide=str&show_icons=true&theme=jolly)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgmetehan&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgmetehan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 My Social Media Links: 
