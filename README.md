@@ -1,6 +1,3 @@
-Hi 👋 My name is Metehan Gültekin
-=================================
-
 Junior Java Developer
 ---------------------
 
