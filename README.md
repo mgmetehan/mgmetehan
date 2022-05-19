@@ -10,6 +10,9 @@ Hey! 🖖 Nice to see you. I'm Metehan, a Back-end developer from Turkey, Istanb
 
 
 ![Profile views](https://gpvc.arturio.dev/mgmetehan) 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mgmetehan&&style=flat-square" align="center" />
+</div>  
 
 
 ## My Skill Set  
