@@ -2,7 +2,7 @@ Junior Java Developer
 ---------------------
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F814FF&lines=Hi++%F0%9F%91%8B+;I'm+Mete.;I'm+a+Java+Developer.;Glad+to+see+you.)](https://git.io/typing-svg)
 
-Hey! 🖖 Nice to see you. I'm Metehan, a Back-end developer from Turkey, Istanbul currently living in.I really enjoy learning languages like Java and Python.I am keen on Java Skills: Java(Spring Boot /JPA-Hibernate /JDBC /Log4j /Maven)/C/C++/Css/Html
+Hey! 🖖 Nice to see you. I'm Metehan, a Back-end developer from Turkey, Istanbul currently living in.I really enjoy learning languages like Java and Python.I am keen on Java 
 
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [mgmetehan@hotmail.com](mailto:mgmetehan@hotmail.com)
