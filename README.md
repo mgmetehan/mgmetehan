@@ -59,3 +59,5 @@ Hey! 🖖 Nice to see you. I'm Metehan, a Back-end developer from Turkey, Istanb
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/mgmetehan"><img src="https://github-readme-stats.vercel.app/api?username=mgmetehan&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="mgmetehan's GitHub stats" /></a>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mgmetehan&theme=midnight-purple&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![snake gif](https://github.com/mgmetehan/mgmetehan/blob/output/github-contribution-grid-snake.svg)
