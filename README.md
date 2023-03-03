@@ -31,8 +31,6 @@ Hey! 🖖 Nice to see you. I'm Metehan, a Back-end developer from Turkey, Istanb
 <img style="margin:" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />  
 <img style="margin:" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />  
 <img style="margin:" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="40" height="40" />  
-<img style="margin:" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="40" height="40" />  
-<img style="margin:" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" width="40" height="40" />
 </p>
 
 <br/>  
