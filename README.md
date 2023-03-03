@@ -1,4 +1,4 @@
-Junior Java Developer
+Java Developer
 ---------------------
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F814FF&lines=Hi++%F0%9F%91%8B+;I'm+Mete.;I'm+a+Java+Developer.;Glad+to+see+you.)](https://git.io/typing-svg)
 
