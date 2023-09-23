@@ -5,7 +5,7 @@ Java Developer
 ---------------------
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F814FF&lines=Hi++%F0%9F%91%8B+;I'm+Mete.;I'm+a+Java+Developer.;Glad+to+see+you.)](https://git.io/typing-svg)
 ## 👔 About Me
-Hey! 🖖 Nice to see you. I'm Metehan, a Back-end developer from Turkey, Istanbul currently living in. I really enjoy learning languages like Java and Python. I am keen on Java
+Hey! 🖖 Nice to see you. I'm Metehan, a Back-end developer from Turkey, Istanbul currently living in. I am keen on Java
 
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [mgmetehan@hotmail.com](mailto:mgmetehan@hotmail.com)
@@ -17,6 +17,7 @@ Hey! 🖖 Nice to see you. I'm Metehan, a Back-end developer from Turkey, Istanb
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000.svg?style=for-the-badge&logo=apachekafka)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
