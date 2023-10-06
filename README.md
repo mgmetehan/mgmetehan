@@ -36,5 +36,3 @@ Hey! 🖖 Nice to see you. I'm Metehan, a Back-end developer from Turkey, Istanb
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mgmetehan) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/metehan_gltkn)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mgmetehan@hotmail.com)
-
-![snake gif](https://github.com/mgmetehan/mgmetehan/blob/output/github-contribution-grid-snake.svg)
