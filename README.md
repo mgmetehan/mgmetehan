@@ -1,16 +1,13 @@
-<h3 align="center">
-Java Developer
-</h3>
+<h1 align="center">
+Hey! 🖖 I'm  Metehan Gültekin ~ Java Developer
+</h2>
 
 ---------------------
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F814FF&lines=Hi++%F0%9F%91%8B+;I'm+Mete.;I'm+a+Java+Developer.;Glad+to+see+you.)](https://git.io/typing-svg)
-## 👔 About Me
-Hey! 🖖 Nice to see you. I'm Metehan, a Back-end developer from Turkey, Istanbul currently living in. I am keen on Java
 
-* 🌍  I'm based in İstanbul
-* ✉️  You can contact me at [mgmetehan@hotmail.com](mailto:mgmetehan@hotmail.com)
-
-![Profile views](https://gpvc.arturio.dev/mgmetehan) 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mgmetehan/count.svg?"  />
+</div>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -28,9 +25,18 @@ Hey! 🖖 Nice to see you. I'm Metehan, a Back-end developer from Turkey, Istanb
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mgmetehan&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mgmetehan&theme=midnight-purple&hide_border=true)
+## 🔥   My Stats :
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mgmetehan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mgmetehan&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+##  Videos 
+* [Git ve Github Nedir?](https://www.youtube.com/live/w36N36JKqGM?si=MXcb-QqqTwOWKuPx)<br>
+* [Leetcode Algoritma Çözümleri](https://www.youtube.com/live/kwXItW3UrE8?si=iDnFzxheq73GDCKm) ➜ [Repo](https://github.com/mgmetehan/LeetCode-Java-Solutions)<br>
+* [Leetcode Algoritma Çözümleri 2](https://www.youtube.com/live/O99hm-NZOCc?si=zjJxJeQfgVTEmsn6) ➜ [Repo](https://github.com/mgmetehan/LeetCode-Java-Solutions)<br>
+* [ElasticSearch'ün Derinliklerine Doğru](https://www.youtube.com/live/cWDXQbjYRgg?si=9c1OsdFPcjxBNikI) ➜ [Repo](https://github.com/mgmetehan/Elasticsearch-Workshop)<br>
+* [Transactional Outbox Pattern](https://www.youtube.com/live/6Mkm_xu7zx8?si=dRhTrOvIulwl4t5c) ➜ [Repo](https://github.com/mgmetehan/outbox-poc)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mgmetehan) 
