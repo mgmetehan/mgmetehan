@@ -31,7 +31,7 @@ Hey! 🖖 I'm  Metehan Gültekin ~ Java Developer
   <img src="https://streak-stats.demolab.com?user=mgmetehan&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-##  Videos 
+##  My Presentations  
 * [Git ve Github Nedir?](https://www.youtube.com/live/w36N36JKqGM?si=MXcb-QqqTwOWKuPx)<br>
 * [Leetcode Algoritma Çözümleri](https://www.youtube.com/live/kwXItW3UrE8?si=iDnFzxheq73GDCKm) ➜ [Repo](https://github.com/mgmetehan/LeetCode-Java-Solutions)<br>
 * [Leetcode Algoritma Çözümleri 2](https://www.youtube.com/live/O99hm-NZOCc?si=zjJxJeQfgVTEmsn6) ➜ [Repo](https://github.com/mgmetehan/LeetCode-Java-Solutions)<br>
