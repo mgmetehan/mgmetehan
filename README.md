@@ -37,7 +37,7 @@ Hey! 🖖 I'm  Metehan Gültekin ~ Java Developer
 * [Leetcode Algoritma Çözümleri 2](https://www.youtube.com/live/O99hm-NZOCc?si=zjJxJeQfgVTEmsn6) ➜ [Repo](https://github.com/mgmetehan/LeetCode-Java-Solutions)<br>
 * [ElasticSearch'ün Derinliklerine Doğru](https://www.youtube.com/live/cWDXQbjYRgg?si=9c1OsdFPcjxBNikI) ➜ [Repo](https://github.com/mgmetehan/Elasticsearch-Workshop)<br>
 * [Transactional Outbox Pattern](https://www.youtube.com/live/6Mkm_xu7zx8?si=dRhTrOvIulwl4t5c) ➜ [Repo](https://github.com/mgmetehan/outbox-poc)
-* [Github Actions ile CI/CD](https://www.youtube.com/live/kvwOObWn8GU?si=1fiIVhhLZvPB61KQ) -> [Repo](https://github.com/mgmetehan/ci-cd-github-actions-demo)
+* [Github Actions ile CI/CD](https://www.youtube.com/live/kvwOObWn8GU?si=1fiIVhhLZvPB61KQ) ➜ [Repo](https://github.com/mgmetehan/ci-cd-github-actions-demo)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mgmetehan) 
