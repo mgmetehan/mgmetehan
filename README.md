@@ -38,7 +38,8 @@ Hey! 🖖 I'm  Metehan Gültekin ~ Java Developer
 * [ElasticSearch'ün Derinliklerine Doğru](https://www.youtube.com/live/cWDXQbjYRgg?si=9c1OsdFPcjxBNikI) ➜ [Repo](https://github.com/mgmetehan/Elasticsearch-Workshop)<br>
 * [Transactional Outbox Pattern](https://www.youtube.com/live/6Mkm_xu7zx8?si=dRhTrOvIulwl4t5c) ➜ [Repo](https://github.com/mgmetehan/outbox-poc)
 * [Github Actions ile CI/CD](https://www.youtube.com/live/kvwOObWn8GU?si=1fiIVhhLZvPB61KQ) ➜ [Repo](https://github.com/mgmetehan/ci-cd-github-actions-demo)
-
+* [Mastering Custom Queries in Spring Boot](https://youtu.be/6ZPi0X3ZtYg?si=pDbIB2vNFm-NKU74) ➜ [Repo](https://github.com/mgmetehan/Spring-custom-query)
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mgmetehan) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/metehan_gltkn)
