@@ -39,6 +39,8 @@ Hey! 🖖 I'm  Metehan Gültekin ~ Java Developer
 * [Transactional Outbox Pattern](https://www.youtube.com/live/6Mkm_xu7zx8?si=dRhTrOvIulwl4t5c) ➜ [Repo](https://github.com/mgmetehan/outbox-poc)
 * [Github Actions ile CI/CD](https://www.youtube.com/live/kvwOObWn8GU?si=1fiIVhhLZvPB61KQ) ➜ [Repo](https://github.com/mgmetehan/ci-cd-github-actions-demo)
 * [Mastering Custom Queries in Spring Boot](https://youtu.be/6ZPi0X3ZtYg?si=pDbIB2vNFm-NKU74) ➜ [Repo](https://github.com/mgmetehan/Spring-custom-query)
+* [Redis ile Caching: Web Uygulamalarınızı Nasıl Hızlandırırsınız?](https://www.youtube.com/live/gQM0CVnWrIk?si=a8v4WUtq-4ltg6Pn) ➜ [Repo](https://github.com/mgmetehan/redis-cache)
+
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mgmetehan) 
