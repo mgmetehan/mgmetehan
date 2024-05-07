@@ -38,6 +38,7 @@ Hey! 🖖 I'm  Metehan Gültekin ~ Java Developer
 * [ElasticSearch'ün Derinliklerine Doğru](https://www.youtube.com/live/cWDXQbjYRgg?si=9c1OsdFPcjxBNikI) ➜ [Repo](https://github.com/mgmetehan/Elasticsearch-Workshop)<br>
 * [Transactional Outbox Pattern](https://www.youtube.com/live/6Mkm_xu7zx8?si=dRhTrOvIulwl4t5c) ➜ [Repo](https://github.com/mgmetehan/outbox-poc)
 * [Github Actions ile CI/CD](https://www.youtube.com/live/kvwOObWn8GU?si=1fiIVhhLZvPB61KQ) ➜ [Repo](https://github.com/mgmetehan/ci-cd-github-actions-demo)
+* CQRS and Event Sourcing ➜ [Repo](https://github.com/mgmetehan/CQRS-EventSorucing)
 * [Mastering Custom Queries in Spring Boot](https://youtu.be/6ZPi0X3ZtYg?si=pDbIB2vNFm-NKU74) ➜ [Repo](https://github.com/mgmetehan/Spring-custom-query)
 * [Redis ile Caching: Web Uygulamalarınızı Nasıl Hızlandırırsınız?](https://www.youtube.com/live/gQM0CVnWrIk?si=a8v4WUtq-4ltg6Pn) ➜ [Repo](https://github.com/mgmetehan/redis-cache)
 
