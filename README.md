@@ -41,7 +41,7 @@ Hey! 🖖 I'm  Metehan Gültekin ~ Java Developer
 * CQRS and Event Sourcing ➜ [Repo](https://github.com/mgmetehan/CQRS-EventSorucing)
 * [Mastering Custom Queries in Spring Boot](https://youtu.be/6ZPi0X3ZtYg?si=pDbIB2vNFm-NKU74) ➜ [Repo](https://github.com/mgmetehan/Spring-custom-query)
 * [Redis ile Caching: Web Uygulamalarınızı Nasıl Hızlandırırsınız?](https://www.youtube.com/live/gQM0CVnWrIk?si=a8v4WUtq-4ltg6Pn) ➜ [Repo](https://github.com/mgmetehan/redis-cache)
-
+* [Spring Boot ile Transaction Yönetimi - Commit, Rollback, Propagation ve Isolation](https://youtu.be/Q_vBbG3bnb8?si=PPqi8RtXhN01XZuJ) ➜ [Repo](https://github.com/mgmetehan/transaction-spring)
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mgmetehan) 
