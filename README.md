@@ -43,6 +43,7 @@ Hey! 🖖 I'm  Metehan Gültekin ~ Java Developer
 * [Redis ile Caching: Web Uygulamalarınızı Nasıl Hızlandırırsınız?](https://www.youtube.com/live/gQM0CVnWrIk?si=a8v4WUtq-4ltg6Pn) ➜ [Repo](https://github.com/mgmetehan/redis-cache)
 * [Spring Boot ile Transaction Yönetimi - Commit, Rollback, Propagation ve Isolation](https://youtu.be/Q_vBbG3bnb8?si=PPqi8RtXhN01XZuJ) ➜ [Repo](https://github.com/mgmetehan/transaction-spring)
 * [Spring Boot ile Pessimistic ve Optimistic Locking](https://youtu.be/FPZVr5qVq44?si=zu6vlk7KqUouU-sj) ➜ [Repo](https://github.com/mgmetehan/pessimistic_optimistic_locking)
+* [Spring Boot ile Pessimistic ve Optimistic Locking - Concurrency Kontrolü](https://www.youtube.com/watch?v=FPZVr5qVq44&t=1973s) ➜ [Repo](https://github.com/mgmetehan/pessimistic_optimistic_locking)
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mgmetehan) 
